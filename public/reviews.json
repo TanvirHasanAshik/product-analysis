@@ -1,0 +1,38 @@
+[
+    {
+        "id": "638a1c6f3fbf99bdf6c24d5f",
+        "name": "Phoebe",
+        "comment": "Being a flagship requires a high-end chipset, and that's why the Mate 50 Pro is based on the Snapdragon 8+ Gen 1 SoC, even if it's limited to 4G connectivity. You can choose between 256GB and 512GB storage.",
+        "img": "./image/img1.jpg"
+    },
+    {
+        "id": "638a1c6fa79535be73d885d2",
+        "name": "Tia",
+        "comment": "The 64MP telephoto camera has a periscopic lens for 3.5x optical zoom, though Huawei promises good photo quality of up to 10x zoom thanks to the high-res sensor. The whole camera system is aided by a 10-channel multispectral sensor and laser autofocus.",
+        "img": "./image/img1.jpg"
+    },
+    {
+        "id": "638a1c6f1526e2eda7f6d651",
+        "name": "Gould",
+        "comment": "The back camera is the real showstopper on the Huawei Mate 50 Pro, and it's as cool as you can imagine. The primary 50MP RYYB sensor comes with a unique stabilized lens with a true variable aperture (f/1.4-f/4.0). Then there is the 13MP ultrawide camera with autofocus and macro capabilities.",
+        "img": "./image/img1.jpg"
+    },
+    {
+        "id": "638a1c6f878ddaed5b8eda1b",
+        "name": "Valarie",
+        "comment": "The Mate 50 Pro's 4,700mAh battery charges at impressive rates, too - you can use 66W fast wired charging right out of the box or opt for Huawei's 50W wireless charger.",
+        "img": "./image/img1.jpg"
+    },
+    {
+        "id": "638a1c6fbb51d13406feed60",
+        "name": "Simon",
+        "comment": "The Huawei Mate 50 Pro runs on EMUI 13, which incorporates Android 12 core inside. There is no GMS, and you can't sideload the Google Play Store or other Google apps on this phone",
+        "img": "./image/img1.jpg"
+    },
+    {
+        "id": "638a1c6f52ce30a389c91582",
+        "name": "Fields",
+        "comment": "The back camera is the real showstopper on the Huawei Mate 50 Pro, and it's as cool as you can imagine. The primary 50MP RYYB sensor comes with a unique stabilized lens with a true variable aperture (f/1.4-f/4.0). Then there is the 13MP ultrawide camera with autofocus and macro capabilities.",
+        "img": "./image/img1.jpg"
+    }
+]
